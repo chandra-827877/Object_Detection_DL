@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: detectionClassifier
+Version: 0.0.0
+Summary: A small python package for detectionClassifier
+Author: chandra sekhar
+Author-email: email
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license-file
+Dynamic: summary
+
+# Object_Detection_DL
